@@ -34,3 +34,4 @@ for pippo in parola:
     print (parola[x])
     x +=1
     
+

